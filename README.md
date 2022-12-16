@@ -9,6 +9,8 @@ O projeto tem o objetivo de demonstrar as lições aprendidas com o estudo de HT
 
 Um site que contem uma série de informações sobre o que eu aprendi aqui na [Trybe](https://www.betrybe.com/) ao longo dos últimos três blocos. O site contem elementos posicionados e estilizados e, também a semântica apropriada para que seja acessível e melhor ranqueado.
 
+![Resultado final](./P%C3%A1gina%20Resultado%20Final.jfif)
+
 <br />
 
 </details>
