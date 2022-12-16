@@ -30,6 +30,9 @@ Todos os requisitos do projeto serão testados **automaticamente** por meio do `
 
 Para testar os requisitos, basta rodar o comando `npm test`
 
+Testes 100%/100%
+![All Tests](./Resultado%20dos%20testes.jfif)
+
 
 </details>
   
