@@ -87,3 +87,46 @@ ul {
   margin-left: 90px;
   width: 400px;
 }
+
+.container {
+  display: inline-block;
+  font-size: 20px;
+  margin-left: 30px;
+}
+
+.lado-esquerdo {
+  border: 1px solid black;
+  margin-top: 45px;
+  float: left;
+  width: 40%;
+  padding: 20px;
+}
+
+.lado-direito {
+  margin-top: 45px;
+  float: right;
+  width: 40%;
+  border: 1px solid black;
+  padding: 20px;
+}
+
+table, th, td {
+  border:1px solid black;
+  margin: auto;
+}
+
+footer {
+  background-color: green;
+  width: 100%;
+  font-size: 25px;
+  color: white;
+  text-align: center;
+  position: absolute;
+  margin-top: 20px;
+}
+
+.containerA {
+  display: flex;
+  align-items: center; 
+  justify-content: center; 
+}
