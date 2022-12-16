@@ -20,13 +20,11 @@ Um site que contem uma série de informações sobre o que eu aprendi aqui na [T
 
 Após clonar o reposítorio, instale as dependências rodando no terminal o comando: `npm install`
 
-Para executar: Com a extensão do VSCode [Live Server](https://github.com/ritwickdey/vscode-live-server-plus-plus) instalada, basta clicar em Go Live.
+Para executar em seu navegador instale a extensão do VSCode [Live Server](https://github.com/ritwickdey/vscode-live-server-plus-plus) instalada, basta clicar em Go Live.
 
 Para verificar se o conteúdo atende o requisito de semântica adequada, basta verificar no [CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/).
 
 Todos os requisitos do projeto serão testados **automaticamente** por meio do `Cypress`.
-
-## Teste
 
 Para testar os requisitos, basta rodar o comando `npm test`
 
