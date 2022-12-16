@@ -40,7 +40,7 @@ Testes 100%/100%
 
 <br />
   
-# Requisitos do projeto Desenvolvidos no projeto
+# Requisitos Desenvolvidos no projeto
 
 ## 1. Adicione uma cor de fundo específica para a página
 
