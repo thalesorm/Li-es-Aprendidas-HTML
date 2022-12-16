@@ -18,7 +18,7 @@ Um site que contem uma série de informações sobre o que eu aprendi aqui na [T
 <details>
 <summary><strong>🛠 Execução e Testes</strong></summary><br />
 
-Após clonar o reposítorio, instale as dependências: ˋnpm installˋ
+Após clonar o reposítorio, instale as dependências rodando no terminal o comando: `npm install`
 
 Para executar: Com a extensão do VSCode [Live Server](https://github.com/ritwickdey/vscode-live-server-plus-plus) instalada, basta clicar em Go Live.
 
@@ -33,53 +33,11 @@ Para testar os requisitos, basta rodar o comando `npm test`
 
 </details>
   
-<details>
-<summary><strong>🏪 Desenvolvimento </strong></summary><br />
 
-Você deve desenvolver uma página HTML estilizada com CSS.
-
-Através desta aplicação, será possível realizar a construção de código HTML, posicionamento e estilização CSS.
-
-</details>
-  
-<details>
-<summary><strong>⚛️ Dica</strong></summary><br />
-
-Para colocar a sua página no [GitHub Pages](https://pages.github.com/), não é necessário remover o conteúdo que já está lá, você pode apenas adicionar essa nova página. Para isso, todo o conteúdo desse projeto deve ser colocado em uma pasta `/projetos/lessons-learned`.
-
-</details>
-
-<details>
-<summary><strong>🔗 Links auxiliares para o desenvolvimento do projeto</strong></summary><br />
-
-- Lembrem-se de que como pessoas desenvolvedoras devemos fazer pesquisas e garimpar resultados para auxiliar no entendimento de um assunto. Assim, para solucionar os requisitos do projeto é inevitável e estimulado que pesquisas sejam feitas nas mais variadas fontes (course, vídeos do course, google, youtube, etc) sempre tomando cuidado para utilizar fontes "confiáveis" nas pesquisas da Internet, como por exemplo:
-  - [Javascript.com](http://javascript.com/)
-  - [W3Schools](https://www.w3schools.com/js/default.asp)
-  - [MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-  - [StackOverflow](https://pt.stackoverflow.com/questions/tagged/javascript)
-
-</details>
-  
-<details>
-<summary><strong>🗣 Nos dê feedbacks sobre o projeto!</strong></summary><br />
-
-Ao finalizar e submeter o projeto, não se esqueça de avaliar sua experiência preenchendo o formulário.
-**Leva menos de 3 minutos!**
-
-[Formulário de avaliação do projeto](https://be-trybe.typeform.com/to/ZTeR4IbH)
-
-</details>
-  
-<details>
-<summary><strong>🗂 Compartilhe seu portfólio!</strong></summary><br />
-
-Você sabia que o LinkedIn é a principal rede social profissional e compartilhar o seu aprendizado lá é muito importante para quem deseja construir uma carreira de sucesso? Compartilhe esse projeto no seu LinkedIn, marque o perfil da Trybe (@trybe) e mostre para a sua rede toda a sua evolução.
-
-</details>
 
 <br />
   
-# Requisitos do projeto
+# Requisitos do projeto Desenvolvidos no projeto
 
 ## 1. Adicione uma cor de fundo específica para a página
 
